@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 
 
 
@@ -25,7 +25,5 @@ git commit -a -m 'Test GIT'
 git remote add origin https://github.com/khady1996/GTM.git
 git push -u origin master
 git pull => récupérer les modifications faites
-=======
 
 create and switch branch:git checkout -b nom_branche
->>>>>>> submaster
