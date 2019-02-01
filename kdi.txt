@@ -1,0 +1,2 @@
+
+create and switch branch:git checkout -b nom_branche
