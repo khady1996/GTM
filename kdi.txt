@@ -1,0 +1,26 @@
+
+
+
+Créer un dépôt => git init / git clone
+
+=> Taper Git en ligne de commandes pour plus de détails
+
+ add        Ajouter le contenu de fichiers dans l'index
+log        Afficher l'historique des validations
+
+git branch nom_branche => création d’une nouvelle branche 
+git checkout  nom_branche => basculer vers la branche  nom_branche
+git status => afficher la branche actuelle
+
+git branch -d nom_branche : supprimer une branche
+
+fusion => git merge branch1 branch2
+
+Modifications à distance ( positionner sur le chemin du projet concerné)
+
+git init 
+git add *
+git commit -a -m 'Test GIT'
+git remote add origin https://github.com/khady1996/GTM.git
+git push -u origin master
+git pull => récupérer les modifications faites
